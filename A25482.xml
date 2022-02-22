@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Annotations vpon the Earle of Straffords Conclvsion, the twelfth of Aprill, 1641</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25482</idno>
+            <idno type="STC">Wing A3245</idno>
+            <idno type="STC">ESTC R11925</idno>
+            <idno type="EEBO-CITATION">13302528</idno>
+            <idno type="OCLC">ocm 13302528</idno>
+            <idno type="VID">98948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 444:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Annotations vpon the Earle of Straffords Conclvsion, the twelfth of Aprill, 1641</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641. --  Conclusion of the Earl of Straffords defence, the twelfth of April, 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98948:1"/>
+            <pb facs="tcp:98948:1" rendition="simple:additions"/>
+            <p>ANNOTATIONS VPON THE EARLE OF <hi>STRAFFORDS</hi> CONCLVSION.</p>
+            <p>
+               <hi>The Twelfth of Aprill,</hi> 1641.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98948:2"/>
+            <pb n="1" facs="tcp:98948:2" rendition="simple:additions"/>
+            <head>THE CONCLVSION Of the <hi>Earle</hi> of <hi>Straffords</hi> De<g ref="char:EOLhyphen"/>fence, the twelfth of <hi>April,</hi> 1641.</head>
+            <p>MY Lords, there yet remaines another Treaſon, that I ſhould be guiltie of; the indeaovuring to ſubvert the fundamen<g ref="char:EOLhyphen"/>tall Lawes of the Land, that they ſhould now bee Treaſon, together, that is not Treaſon in any one part of Treaſon<note n="a" place="margin">Intention of Treaſon, is Treaſon (not ſo in felonie) when it is proved, though by facts which in themſelves are no treaſon.</note> accumulative, that ſo when all will not doe, it is woven up with others, it ſhould ſeeme very ſtrange.</p>
+            <p>Vnder favour, my <hi>Lords,</hi> I doe not conceive that there is either Sta<g ref="char:EOLhyphen"/>ture-Law, nor Common-law, that doth declare the endeavouring to ſubvert the fundamentall Lawes to be high Treaſon<note n="b" place="margin">One excepted which is a law againſt ſuch as break the fun<g ref="char:EOLhyphen"/>damentall law of the king<g ref="char:EOLhyphen"/>dome beſides 25: <hi>Ed.</hi> 3 which leaves it in the breaſt of a Parliament to judge ſuch things treaſon which are ſo in their owne natures, though not expreſſed.</note>.</p>
+            <p>For neither <hi>statute-Law,</hi> nor <hi>Com<g ref="char:EOLhyphen"/>mon-Law</hi> written<note n="c" place="margin">In things wherin men ſhould be a law unto themſelves; If they ſin without the law, they periſh without the law.</note>, that ever I could heare of, declareth it ſo.</p>
+            <pb n="2" facs="tcp:98948:3"/>
+            <p> And yet I have beene diligent to enquire<note n="d" place="margin">Had you not bin worſe then a heathen, you might have found at within you written in the co<g ref="char:cmbAbbrStroke">̄</g>mon law of nature.</note>, (as I beleeve you thinke it doth concerne me to doe.</p>
+            <p>
+               <hi>It is hard to bee queſtio<g ref="char:EOLhyphen"/>ned for life and honour, up<g ref="char:EOLhyphen"/>on a Law that cannot be ſhowne</hi>
+               <note n="e" place="margin">If it were ſo, it is but <hi>lex taeionis,</hi> and it is well that by altering the Scene, your judgement is ſo rightly informed, which never thought that burden hard you laid upon others.</note>.</p>
+            <p>There is a rule which I have learned from Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Cooke, De non apparen. tibus &amp; non exiſtentibus ea<g ref="char:EOLhyphen"/>dem ratio,</hi> (Ieſu) where hath this fire laine all this while, ſo many hundreds of yeares without any ſmoake to diſco<g ref="char:EOLhyphen"/>ver it, till it thus burſt forth to conſume me, and my chil<g ref="char:EOLhyphen"/>dren<note n="f" place="margin">And longer might have laine, had not ſuch a fire-brand as you, given too juſt cauſe to teend it; Who as you have made women childleſſe, ſo in juſtice will God make your mo<g ref="char:EOLhyphen"/>ther childleſſe, and your children fa<g ref="char:EOLhyphen"/>therleſſe.</note>: extreame hard in my opinion, that puniſhment ſhould preceede promulgati<g ref="char:EOLhyphen"/>on, of a Law puniſhed by a Law ſubſequent to the Acts done?<note n="f" place="margin">Paricide hath been thought too no<g ref="char:EOLhyphen"/>torious and unnaturall a crime to have a law made againſt it, and yet judged a crime when committed. Some offences are ſo heinous, that they condemne themſelves, and need no law to judge them, much leſſe to be proclaimed againſt them, whereof this is one, a worſe then paricide.</note>
+            </p>
+            <p>Take it into your conſiderations, for certainly it is now better to bee under no law at all but the will of men,<note n="g" place="margin">Hoc op<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, hic laboreſt.</note> then to conforme our ſelves under the protection of a law as wee thinke, and then bee puniſhed for a
+<pb n="3" facs="tcp:98948:3" rendition="simple:additions"/>crime that doth preceede that law, what man can bee ſafe, if that bee once admit<g ref="char:EOLhyphen"/>ted<note n="g" place="margin">Nay, rather what Common-wealth can bee ſafe if this bee not admitted, in ſuch caſes as either cannot be fore<g ref="char:EOLhyphen"/>ſeeme, or which Nature abhorrer to imagine.</note>.</p>
+            <p>My <hi>Lords,</hi> it is hard in another re<g ref="char:EOLhyphen"/>ſpect, that there ſhould bee no token ſet upon this offence, by which wee ſhould know it, no admonition by which we ſhould be aware of it<note n="h" place="margin">It is ſtrange that hee that carries the face of a man ſhould need an admonition, not to betray his countrey.</note>.</p>
+            <p>If a man paſſe downe the <hi>Thames</hi> in a Boat, and it be ſplit upon an An<g ref="char:EOLhyphen"/>chor, and a boye, being ſet as a to<g ref="char:EOLhyphen"/>ken that there is an anchor there, <hi>that partie that owes the anchor, by the Ma<g ref="char:EOLhyphen"/>ritine Lawes, ſhall give ſatisfaction for the dammage done; but if it were marked out, I muſt come upon my owne perill</hi>
+               <note n="i" place="margin">One would thinke there need no Law to forbid a man to fire the houſe he dwels in, or to ſinke the ſhip he failes in, and in cale hee attempt this, though no Maritine law forbid it, no doubt, it is juſt to throw him over-board to ſave the reſt, and let him pe<g ref="char:EOLhyphen"/>riſh alone.</note>.</p>
+            <p>
+               <hi>Now where is the marke upon this cryme, where is the token that this is high Treaſon</hi>
+               <note n="k" place="margin">The Parliament is as well a court of equitie as of Law (as by a ſpeciall clauſe of re<g ref="char:EOLhyphen"/>ſervation in the 25. <hi>Ed</hi> 3. in the very caſe of Treaſon does appeare) and ſo in equitie may ſupply the litterall defects of the Law (in caſe it were defective) as the Chancerie does the Kings bench; and if ſo, it muſt needs be juſt, That he that would not deſtroy three Kingdomes, for no other reaſon, but only becauſe there is a Law that makes it Treaſon, ſhould in equitie ſuffer as a traitour for taking the libertie to doe it, be<g ref="char:EOLhyphen"/>cauſe there is no law, or becauſe he knowes of none againſt it.</note>.</p>
+            <p>
+               <hi>If it bee under water, and not above water, no humane providence can a<g ref="char:EOLhyphen"/>vaile, nor prevent my deſtruction</hi>
+               <note n="l" place="margin">There is great hope ſo, be<g ref="char:EOLhyphen"/>cauſe a divine one hath de<g ref="char:EOLhyphen"/>creed it. <hi>Job</hi> 34.29.30.</note>.</p>
+            <p>
+               <hi>Lay aſide all humane Wiſdome, and let
+<pb n="4" facs="tcp:98948:4"/>us reſt upon divine Revelation, if you will condemne before you forewarne of the danger</hi>
+               <note n="m" place="margin">He that kills a King, in hu<g ref="char:EOLhyphen"/>mane wiſ<g ref="char:EOLhyphen"/>dome with<g ref="char:EOLhyphen"/>out Revelati<g ref="char:EOLhyphen"/>on, may well think he ſhall dye for it, though no Law ſhould threaten it, &amp; much more if he deſtroy the Common-wealth which cannot periſh, and the King be preſerved.</note>.</p>
+            <p>Oh my Lords, may your Lordſhips bee pleaſed to give that regard unto the Peere-age of <hi>England,</hi> as never to ſuffer our ſelves to be put on thoſe <hi>nice</hi> points, upon ſuch conſtructive interpretations, and theſe are where Lawes are not cleere or knowne, if there muſt be a Tryall of wits, I doe moſt humbly beſeech you, the ſubject and matter may be in ſomewhat elſe, then the lives and Ho<g ref="char:EOLhyphen"/>nours of Peeres<note n="n" place="margin">Or the Be<g ref="char:EOLhyphen"/>ings and Wel-beings of whole king<g ref="char:EOLhyphen"/>domes.</note>.</p>
+            <p>My Lords, wee find that in the primitive times, in the progreſſion of the plaine Doctrine of the Apoſtles; they brought the Bookes of cu<g ref="char:EOLhyphen"/>rious Arts, and burned them. And ſo likewiſe as I doe conceive, it will be wiſedome and provi<g ref="char:EOLhyphen"/>dence in your Lordſhippes, for your poſterity, and the whole Kingdome,<note n="o" place="margin">That means to tread in your ſteps.</note> to caſt from you into the fire theſe bloudy and moſt myſterious Vo<g ref="char:EOLhyphen"/>lumes of conſtructive and Arbitrary Treaſons<note n="p" place="margin">If there were no ex<g ref="char:EOLhyphen"/>preſſe Law to make it trea<g ref="char:EOLhyphen"/>ſon, yet it is equall that he that ſeekes to bring this Kingdome under an ar<g ref="char:EOLhyphen"/>bitrarie go<g ref="char:EOLhyphen"/>vernment, ſhould receive an arbitrary puniſhment.</note>, and to betake your ſelves to the plaine Letter of the Law and Statute, that telleth us where the cryme is<note n="q" place="margin">But yet ſo, as that there is left a place for you and your offence by a wiſe foreſight in the reſervation of 25: <hi>Ed.</hi> 3.</note>; And by telling what is, and what is not, ſhewes how to avoid it<note n="r" place="margin">He that having power in his hands ſo far endevours the ruining of the Co<g ref="char:cmbAbbrStroke">̄</g>mon-wealth, as he thinks may ſtand with his owne ſafety, it is juſt to judge him a Trai<g ref="char:EOLhyphen"/>tour to his countrey, though true to himſelfe.</note>. And let us not bee am<g ref="char:EOLhyphen"/>bitious, to bee more wiſe and learned in the kil<g ref="char:EOLhyphen"/>ling Arts, then our fore-fathers were<note n="ſ" place="margin">It is but equall that he ſhould have judgement without mercy, that ſhewed no mercy.</note>.</p>
+            <pb n="5" facs="tcp:98948:4"/>
+            <p> 
+               <hi>It is now full</hi> 200. <hi>and</hi> 40. <hi>yeares, ſince ever any man was touched for this alleaged cryme (to this beights) before my ſelfe, we have lived happily to our ſelves at home, and we have lived gloriouſly to the World abroad</hi>
+               <note n="ſ" place="margin">Never ſince your time of promotion, though it is hoped, when you are gone we ſhall do ſo againe.</note>.</p>
+            <p>Let us reſt contented with that which our Fa<g ref="char:EOLhyphen"/>thers left us, and not awake thoſe flee<g ref="char:EOLhyphen"/>cy <hi>Lyons</hi> to our owne deſtructions<note n="t" place="margin">So let all the enemies of God and their country periſh.</note>; by raking up a few muſty records that have layen ſo many ages by the walls, quite forgotten and negle<g ref="char:EOLhyphen"/>cted<note n="t" place="margin">Ill maners being forth good lawes. Which it ſeemes were made in a good time, and kept to a good heare to rid us of ſo rotten a member that many ages cannot paralell.</note>.</p>
+            <p>
+               <hi>May your Lordſhips be Nobly pleaſed, to adde this to thoſe other misfortunes befallen mee for my ſinnes, not for my Treaſons; that a preſident ſhould not bee derived from me of that diſadvantage (as this will be in the conſequent to the whole Kingdome) I be<g ref="char:EOLhyphen"/>ſeech you ſeriouſly to conſider it, and let not my par<g ref="char:EOLhyphen"/>ticular caſe bee ſo looked on as you doe; though you wound me in my intereſt in the Common-wealth, and therefore thoſe Gentlemen ſay, that they ſpeake for the Common-wealth, yet in this particular I indeed ſpeake for it, and the inconveniences and miſchiefes that will heavily fall upon us</hi>
+               <note n="u" place="margin">It is pitty but you ſhould die whilſt you are in ſo good a mind, now you are againe turned Common-wealths-man, which you were once before, leſt you alter as you have done.</note>; <hi>for as it is in the</hi> 1. <hi>of</hi> Henry <hi>the fourth, no man will after know what to doe, or ſay, for feare</hi>
+               <note n="u" place="margin">And to that paſſe we were come againe of late by your meanes, till God ſet us free.</note>.</p>
+            <p>
+               <hi>Doe not put (my Lords) ſo great dif<g ref="char:EOLhyphen"/>ficulties upon the Ministers of ſtate, that men of wiſedome, honour, and ver<g ref="char:EOLhyphen"/>tue</hi>
+               <note n="x" place="margin">Had you had the laſt, it would have preſerved the two firſt, but your want of honeſty hath made your wiſ<g ref="char:EOLhyphen"/>dome fooliſhneſſe, and your honour ignominie.</note>, <hi>may not with cheerefulneſſe and
+<pb n="6" facs="tcp:98948:5"/>ſafety, be imploye a for the publike</hi>
+               <note n="x" place="margin">You meane againſt it.</note>, <hi>if <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you weigh and meaſure them by graine <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and ſcruples</hi>
+               <note n="y" place="margin">Your preſſures have indeed beene heavier, then to de<g ref="char:EOLunhyphen"/>ſerve to bee weighed with ſo light weights.</note>, <hi>the publike affaires by <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Kingdome will bee laid waſte, and <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no man will meddle with them, tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath honours, iſſues, or any fortunes to loſe</hi>
+               <note n="z" place="margin">Before you wiſhed you might not bee made a preſi<g ref="char:EOLhyphen"/>dent, but wee cannot have a better, it will but produce this effect, that men of your miſchievous minde will for your ſake refuſe preferment, and imployment <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>.</p>
+            <p>My <hi>Lords,</hi> I have now troubled you, longe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then I ſhould have done, were it not for the inte<g ref="char:EOLunhyphen"/>reſt of thoſe deare pledges, a Saint in heaven hat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> left me; I ſhould be loath my <hi>Lords,</hi> (there he ſtopped.)</p>
+            <p>What I forfeit for my ſelfe it is nothing, b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that my indiſcretion ſhould forfeit for my child<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> it even woundeth me deepe to the very ſoule.</p>
+            <p>You will pardon my infirmity, ſomething <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould have ſaid, but I am not able, (and ſighed<g ref="char:punc">▪</g> therefore let it paſſe.</p>
+            <p>And now my <hi>Lords,</hi> I have bin by the bleſſi<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> of Almighty God taught, that the afflictions <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this life preſent, are not to bee compared to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eternall weight of glory that ſhall be revealed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us hereafter.</p>
+            <p>And ſo, my <hi>Lords,</hi> even ſo with tranquility o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mind, I doe ſubmit my ſelfe freely and cleare<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to your Lordſhips judgements; and whether tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> righteous judgement ſhalbe to life or death.</p>
+            <closer>Te Deum Laudamus, te Dominum Confitemur.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
